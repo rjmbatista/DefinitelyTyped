@@ -1,6 +1,6 @@
 # DefinitelyTyped
 
-> The repository for *high quality* TypeScript type definitions.
+> The repository for *high quality* TypeScript type definitions. (test)
 
 Also see the [definitelytyped.org](http://definitelytyped.org) website, although information in this README is more up-to-date.
 
